@@ -1,9 +1,9 @@
-# 📌 Perfil Profissional Avançado
+# 📌 Perfil Profissional 
 
-<h1 align="center">🚀 [Douglas Santos] - Desenvolvedor Full Stack em Evolução</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h1 align="center">🚀 Douglas Santos - Desenvolvedor Full Stack em Evolução</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 
-## 🔥 Stack Tecnológica em Constante Evolução
+## 📱 Stack Tecnológica em Constante Evolução
 
 ### 🛠️ Domínio Atual
 <div align="center">
@@ -35,11 +35,9 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
 ## 📊 Métricas de Evolução Técnica
@@ -80,7 +78,7 @@
 
 ## 📅 Roadmap de Aprendizado 2024
 ```mermaid
-gantt
+gantt 
     title Roadmap de Desenvolvimento 2024
     dateFormat  YYYY-MM
     section Frontend Avançado
