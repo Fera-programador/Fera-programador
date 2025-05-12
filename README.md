@@ -30,10 +30,6 @@
 ## 📊 Métricas de Evolução Técnica
 <div align="center">
   
-  ![Estatísticas GitHub](https://github-readme-stats-omega-five.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Evolução%20Técnica)
-  
-  ![Linguagens Principais](https://github-readme-stats-omega-five.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical&langs_count=6&hide=roff,shell&custom_title=Linguagens%20em%20Destaque)
-  
   ![Contribuição Contínua](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=react-dark&hide_border=true&area=true&custom_title=Trajetória%20de%20Contribuição)
 </div>
 
