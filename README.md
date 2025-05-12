@@ -1,6 +1,6 @@
 # 📌 Perfil Profissional Avançado
 
-<h1 align="center">🚀 [Seu Nome] - Desenvolvedor Full Stack em Evolução</h1>
+<h1 align="center">🚀 [Douglas Santos] - Desenvolvedor Full Stack em Evolução</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Especialização em [Sua Área de Interesse]</h3>
 
 ## 🔥 Stack Tecnológica em Constante Evolução
@@ -44,7 +44,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 💻 [Nome do Projeto Inovador]
+### 💻 [Projeto Inovador]
 - **Tecnologias**: Next.js 14, TailwindCSS, GraphQL
 - **Destaque**: Sistema de recomendação com IA integrada
 - **[🔗 Live Demo](https://...) | [📂 Repositório](https://...)**
@@ -59,7 +59,7 @@
   <a href="[Seu LinkedIn]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[Seu Email]">
+  <a href="mailto:[dsdouglas13@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="[Seu Portfolio]" target="_blank">
