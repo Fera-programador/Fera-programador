@@ -65,13 +65,13 @@
 
 ## 🌐 Conexões Profissionais
 <div align="center">
-  <a href="https://www.linkedin.com/in/douglassouzadossantos.com" target="_blank">
+  <a href="https://www.linkedin.com/in/douglas-souza-dos-santos-113211261" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dsdouglas13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[Seu Portfolio]" target="_blank">
+  <a href="https://portfolio-lyart-rho-31.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
 </div>
