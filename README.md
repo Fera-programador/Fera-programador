@@ -41,7 +41,7 @@
 </div>
 
 ## 📊 Métricas de Evolução Técnica
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chartreuse-dark&theme=youtube-dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=chartreuse-dark&theme=youtube-dark)](https://git.io/streak-stats)
 
 ## 🏆 Conquistas e Certificações
 - 🏅 AWS Certified Cloud Practitioner (Em progresso)
