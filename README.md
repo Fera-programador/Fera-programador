@@ -41,6 +41,7 @@
 </div>
 
 ## 📊 Métricas de Evolução Técnica
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=chartreuse-dark&theme=youtube-dark)](https://git.io/streak-stats)
 
 ## 🏆 Conquistas e Certificações
