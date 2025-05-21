@@ -41,10 +41,7 @@
 </div>
 
 ## 📊 Métricas de Evolução Técnica
-<div align="center">
-  
-  ![Contribuição Contínua](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=react-dark&hide_border=true&area=true&custom_title=Trajetória%20de%20Contribuição)
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chartreuse-dark&theme=youtube-dark" alt="GitHub Streak" /></a>
 
 ## 🏆 Conquistas e Certificações
 - 🏅 AWS Certified Cloud Practitioner (Em progresso)
