@@ -42,7 +42,8 @@
 
 ## 📊 Métricas de Evolução Técnica
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fera-programadorchartreuse-dark&theme=youtube-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fera-programador&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=fera-programador&show_icons=true&theme=dark)
 
 ## 🏆 Conquistas e Certificações
 - 🏅 AWS Certified Cloud Practitioner (Em progresso)
