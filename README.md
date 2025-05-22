@@ -1,11 +1,11 @@
- # Ao Infinito e Além 🚀
+<h1 align="center"> # Ao Infinito e Além 🚀</h1>
 
 <h1 align="center"> Douglas Santos  Desenvolvedor Full Stack em Evolução</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 
-## 📱 Stack Tecnológica em Constante Evolução
+<h1 align="center"> ## 📱 Stack Tecnológica em Constante Evolução</h1>
 
-### 🛠️ Domínio Atual
+<h1 align="center"> ### 🛠️ Domínio Atual</h1>
 <div align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-### 📊 Aprendendo Constantemente
+<h1 align="center"> ### 📊 Aprendendo Constantemente</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -40,13 +40,13 @@
   
 </div>
 
-## 📊 Métricas de Evolução Técnica
+<h1 align="center"> ## 📊 Métricas de Evolução Técnica</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fera-programador&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=fera-programador&show_icons=true&theme=dark)
 
 
-## 🌐 Conexões Profissionais
+<h1 align="center"> ## 🌐 Conexões Profissionais</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/douglas-souza-dos-santos-113211261" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -59,7 +59,7 @@
   </a>
 </div>
 
-## 📅 Roadmap de Aprendizado 2024
+<h1 align="center"> ## 📅 Roadmap de Aprendizado 2024</h1>
 ```mermaid
 gantt 
     title Roadmap de Desenvolvimento 2024
@@ -70,6 +70,5 @@ gantt
     section Backend
     Arquitetura Serverless      :2024-02, 2024-05
     Otimização de APIs          :2024-06, 2024-08
-    section DevOps
-    CI/CD Avançado             :2024-03, 2024-07
-    Kubernetes                 :2024-08, 2024-12
+    
+    
