@@ -1,6 +1,6 @@
  # Ao Infinito e Além 🚀
 
-<h1> Douglas Santos - Desenvolvedor Full Stack em Evolução</h1>
+<h1 align="center"> Douglas Santos - Desenvolvedor Full Stack em Evolução</h1>
 <h3>Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 
 ## 📱 Stack Tecnológica em Constante Evolução
