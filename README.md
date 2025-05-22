@@ -3,7 +3,6 @@
 <h1 align="center"> Douglas Santos  Desenvolvedor Full Stack em Evolução</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 
- ## 📱 Stack Tecnológica em Constante Evolução
 
  ### 🛠️ Domínio Atual
 <div align="center">
