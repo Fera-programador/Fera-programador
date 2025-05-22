@@ -1,6 +1,6 @@
-# 📌 Perfil Profissional 
+ # Ao Infinito e Além 🚀
 
-<h1 align="center">🚀 Douglas Santos - Desenvolvedor Full Stack em Evolução</h1>
+<h1 align="center"> Douglas Santos - Desenvolvedor Full Stack em Evolução</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 
 ## 📱 Stack Tecnológica em Constante Evolução
@@ -45,22 +45,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fera-programador&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=fera-programador&show_icons=true&theme=dark)
 
-## 🏆 Conquistas e Certificações
-- 🏅 AWS Certified Cloud Practitioner (Em progresso)
-- 🥇 1º Lugar Hackathon UniTech 2023 - Solução IoT para Cidades Inteligentes
-- 📜 Certificado em Desenvolvimento Ágil - Alura
-
-## 🚀 Projetos em Destaque
-
-### 💻 [Projeto Inovador]
-- **Tecnologias**: Next.js 14, TailwindCSS, GraphQL
-- **Destaque**: Sistema de recomendação com IA integrada
-- **[🔗 Live Demo](https://...) | [📂 Repositório](https://...)**
-
-### 📱 [Projeto Mobile Revolucionário]
-- **Tecnologias**: React Native, Firebase
-- **Destaque**: 10k+ downloads na Play Store
-- **[📲 Veja no Google Play](https://...)**
 
 ## 🌐 Conexões Profissionais
 <div align="center">
