@@ -62,7 +62,10 @@ gantt
     title Roadmap de Desenvolvimento 2024
     dateFormat  YYYY-MM
     section Frontend Avançado
-    Next.js 14                  :active, 2024-01, 2024-03
+    React                  :active, 2024-01, 2024-03
+    Typescript
+    Python
+    Next
     Micro-frontends             :2024-04, 2024-06
     section Backend
     Arquitetura Serverless      :2024-02, 2024-05
