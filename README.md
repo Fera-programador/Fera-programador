@@ -3,6 +3,12 @@
 <h1 align="center"> Douglas Santos  Desenvolvedor Full Stack em Evolução</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 
+<!-- Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake.svg" />
+</picture>
 
  ### 🛠️ Domínio Atual
 <div align="center">
@@ -41,7 +47,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fera-programador&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=fera-programador&show_icons=true&theme=dark)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiz2411&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  ## 🌐 Conexões Profissionais
 <div align="center">
