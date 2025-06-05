@@ -47,7 +47,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fera-programador&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=fera-programador&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiz2411&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fera-programador&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  ## 🌐 Conexões Profissionais
 <div align="center">
