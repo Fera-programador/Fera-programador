@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Douglas Santos  Desenvolvedor Full Stack em Evolução</h1>
+<h1 align="center"> Douglas Santos  Desenvolvedor Full Stack Jr</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 
 <!-- Snake Game -->
