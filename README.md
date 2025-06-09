@@ -45,19 +45,5 @@
   </a>
 </div>
 
- ## 📅 Roadmap de Aprendizado 2024
-```mermaid
-gantt 
-    title Roadmap de Desenvolvimento 2024
-    dateFormat  YYYY-MM
-    section Frontend Avançado
-    React                  :active, 2024-01, 2024-03
-    Typescript             :active, 2024-01, 2024-03
-    Python                 :active, 2024-01, 2024-03
-    Next                   :active, 2024-01, 2024-03
-    Micro-frontends             :2024-04, 2024-06
-    section Backend
-    Arquitetura Serverless      :2024-02, 2024-05
-    Otimização de APIs          :2024-06, 2024-08
-    
+ 
     
