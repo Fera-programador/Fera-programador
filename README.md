@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Douglas Santos Dev Front-End Jr</h1>
+<h1 align="center">Douglas Santos</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 
 
