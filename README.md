@@ -29,7 +29,7 @@
 
  ## 📊 Métricas de Evolução Técnica
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fera-programador&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fera-programador&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  ## 🌐 Conexões Profissionais
