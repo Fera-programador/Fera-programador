@@ -12,7 +12,6 @@
 Web Front-End Júnior, onde eu possa aplicar meus conhecimentos e continuar evoluindo com projetos reais.
 Estou comprometido com a aprendizagem contínua e compartilho meus estudos e projetos no meu portfólio:
 
-• https://portfolio-lyart-rho-31.vercel.app
 
 🔧Principais habilidades técnicas:
 
