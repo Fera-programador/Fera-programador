@@ -4,6 +4,33 @@
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 
 
+🏞️Desenvolvedor Front-End em transição de carreira, em formação contínua pela Faculdade FSFA, com foco em tecnologias modernas como React, Next.js e TypeScript. Tenho desenvolvido projetos práticos utilizando HTML, CSS, JavaScript, com atenção à responsividade, boas práticas de código e versionamento com Git e GitHub.
+
+💼Minha experiência anterior como auxiliar administrativo nas redes de saúde, Hospitais e afiliados contribuiu para habilidades valiosas como comunicação, organização, resolução de problemas, proatividade e foco em resultados — todas essenciais para atuar com eficiência em ambientes colaborativos de tecnologia.
+
+📌Busco minha primeira oportunidade como Desenvolvedor
+Web Front-End Júnior, onde eu possa aplicar meus conhecimentos e continuar evoluindo com projetos reais.
+Estou comprometido com a aprendizagem contínua e compartilho meus estudos e projetos no meu portfólio:
+
+• https://portfolio-lyart-rho-31.vercel.app
+
+🔧Principais habilidades técnicas:
+
+HTML, CSS, JavaScript
+
+React, Next.js, TypeScript
+
+Desenvolvimento responsivo
+
+Git e GitHub
+
+💡Soft Skills: comunicação, trabalho em equipe, organização,
+foco em soluções.
+
+📍Disponível para oportunidades remotas, híbridas ou
+presenciais.
+Vamos nos conectar…
+
  ### 🛠️ Domínio Atual
 <div align="center">
   <!-- Frontend -->
