@@ -31,9 +31,10 @@ presenciais.
 Vamos nos conectar…
 
  ### 🛠️ Domínio Atual
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nextjs,ts,nodejs, postgres, postman,py,mysql,vscode,js,c, sqlite, supabase" />
+    <img src="https://skillicons.dev/icons?i=git,react,nextjs,ts,nodejs,postgres,postman,py,mysql,vscode,js,c,sqlite,supabase"/>
   </a>
 </p>
 
