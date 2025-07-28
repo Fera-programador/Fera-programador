@@ -39,11 +39,12 @@ Vamos nos conectar…
 </p>
 
  ### 📊 Aprendendo Constantemente
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,graphql,docker"/>
+  </a>
+</p>
 
 
  ## 📊 Métricas de Evolução Técnica
