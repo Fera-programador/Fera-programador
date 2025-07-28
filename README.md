@@ -55,8 +55,8 @@ Vamos nos conectar…
 
  ## 📊 Métricas de Evolução Técnica
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fera-programador&hide=Html&theme=nord_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fera-programador&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  ## 🌐 Conexões Profissionais
 <div align="center">
